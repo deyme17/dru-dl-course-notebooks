@@ -1,0 +1,13 @@
+numpy
+matplotlib
+scikit-learn
+pandas
+seaborn
+wget
+ipykernel
+
+###
+torch 
+torchvision 
+torchaudio
+### ^ if you want to run a model training on the GPU - use the flag `--index-url https://download.pytorch.org/whl/cu124`
