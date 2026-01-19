@@ -1,15 +1,17 @@
 # ignore datasets
-.csv
-.png
-.jpg
-.jpeg
-.JPG
-.tif
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.JPG
+*.tif
+
 # ignore models
-.pt 
-.pth
+*.pt 
+*.pth
+
 # ignore some dirs
-M3CNN\BrainMRI\
+M3CNN/BrainMRI/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
