@@ -5,6 +5,11 @@
 *.jpeg
 *.JPG
 *.tif
+*.gif
+*.fcgi
+*.webp
+*.php
+.DS_Store
 
 # ignore models
 *.pt 
