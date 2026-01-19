@@ -5,6 +5,7 @@ pandas
 seaborn
 wget
 ipykernel
+tqdm
 
 ###
 torch 

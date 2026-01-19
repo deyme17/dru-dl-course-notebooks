@@ -4,9 +4,12 @@
 .jpg
 .jpeg
 .JPG
+.tif
 # ignore models
 .pt 
 .pth
+# ignore some dirs
+M3CNN\BrainMRI\
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
