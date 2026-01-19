@@ -11,4 +11,5 @@ tqdm
 torch 
 torchvision 
 torchaudio
+tensorboard
 ### ^ if you want to run a model training on the GPU - use the flag `--index-url https://download.pytorch.org/whl/cu124`
