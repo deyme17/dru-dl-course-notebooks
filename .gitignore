@@ -17,7 +17,7 @@
 
 # ignore some dirs
 M3CNN/BrainMRI/
-M3CN/logdir/
+M3CNN/logdir/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
