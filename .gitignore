@@ -19,6 +19,7 @@
 # ignore some dirs
 M3CNN/BrainMRI/
 M3CNN/logdir/
+M4RNN/Chopin/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
