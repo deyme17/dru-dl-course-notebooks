@@ -20,6 +20,8 @@
 M3CNN/BrainMRI/
 M3CNN/logdir/
 M4RNN/Chopin/
+M4RNN/UCI HAR Dataset/
+M4RNN/logdir/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
