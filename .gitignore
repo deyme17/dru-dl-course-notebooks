@@ -22,6 +22,7 @@ M3CNN/logdir/
 M4RNN/Chopin/
 M4RNN/UCI HAR Dataset/
 M4RNN/logdir/
+M5AE/logdir/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
