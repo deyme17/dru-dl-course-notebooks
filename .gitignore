@@ -17,6 +17,8 @@
 *.weights
 
 # ignore some dirs
+**/logdir/
+**/logs/
 M3CNN/BrainMRI/
 M3CNN/logdir/
 M4RNN/Chopin/
