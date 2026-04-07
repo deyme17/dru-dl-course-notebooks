@@ -13,3 +13,8 @@ torchvision
 torchaudio
 tensorboard
 ### ^ if you want to run a model training on the GPU - use the flag `--index-url https://download.pytorch.org/whl/cu124`
+
+transformers==4.40.2
+sentence_transformers
+gradio
+g2p_en
