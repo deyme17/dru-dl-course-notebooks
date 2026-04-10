@@ -1,23 +1,23 @@
-numpy
-matplotlib
-scikit-learn
-pandas
-seaborn
-wget
-ipykernel
-tqdm
+numpy==1.26.4
+matplotlib==3.9.2
+scikit-learn==1.5.2
+pandas==2.2.3
+seaborn==0.13.2
+wget==3.2
+ipykernel==6.29.5
+tqdm==4.66.5
 
 ###
-torch 
-torchvision 
-torchaudio
-tensorboard
+torch==2.3.1
+torchvision==0.18.1
+torchaudio==2.3.1
+tensorboard==2.17.0
 ### ^ if you want to run a model training on the GPU - use the flag `--index-url https://download.pytorch.org/whl/cu124`
 
 transformers==4.40.2
-sentence-transformers
-gradio
-g2p_en
+sentence-transformers==3.0.1
+gradio==4.42.0
+g2p_en==2.1.0
 
 langchain==0.3.25
 langchain-openai==0.3.16
