@@ -15,6 +15,13 @@ tensorboard
 ### ^ if you want to run a model training on the GPU - use the flag `--index-url https://download.pytorch.org/whl/cu124`
 
 transformers==4.40.2
-sentence_transformers
+sentence-transformers
 gradio
 g2p_en
+
+langchain==0.3.25
+langchain-openai==0.3.16
+langchain-community==0.3.24
+langchain-core==0.3.60
+faiss-cpu==1.8.0
+tiktoken==0.7.0
