@@ -26,6 +26,7 @@ M4RNN/Chopin/
 M4RNN/UCI HAR Dataset/
 M4RNN/logdir/
 M5AE/logdir/
+M7ATransformers/wiki_pages/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
